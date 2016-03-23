@@ -5,4 +5,7 @@ add 333333333
 add 444444444
 push
 drc
+dev
+dev
+wx
 Git is free software.
