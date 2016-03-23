@@ -1,11 +1,4 @@
 Git is a version control system.
-add 111111111
-add 222222222
-add 333333333
-add 444444444
-push
-drc
-dev
-dev
+
 wx
 Git is free software.
